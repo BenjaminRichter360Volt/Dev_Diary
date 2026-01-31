@@ -1,9 +1,7 @@
 # Was will ich heute machen:
-- Auth API als Container in Azure hochladen und starten.
-- Auth API mit dem Mitarbeiterportal verbinden.
+- 
 # Was habe ich geschafft:
-- Gestern arbeitete ich an der Auth API um diese nach Azure als Web App zu deployn, dabei gab es einige Fehler die Lokal nicht auffielen.
-- Um das ganze dann mit dem Frontend, bzw einer subdomain zu simulieren, habe ich eine kleine React App mit 2 Buttons erstellt, so wie einen Docker Container um diesen nach Docker zu pushen für weitere Tests heute.
+-
 # Womit gab es Probleme:
 
 # Speichern für Später:
